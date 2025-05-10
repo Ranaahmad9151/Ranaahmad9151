@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranaahmad9151&label=Profile%20views&color=0e75b6&style=flat" alt="ranaahmad9151" /> </p>
 
-- 🔭 I’m currently working on **data scientist and ai/ml projects**
+- 🔭 I’m currently working on **Data Scientist And AI/ML Projects**
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, Node JS, React**
 
