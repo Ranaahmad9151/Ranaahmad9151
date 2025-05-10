@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Saeed</h1>
-<h3 align="center">A passionate data scientist and ai/ml engineer from pakistan</h3>
+<h3 align="center">A Passionate Data Scientist and AI/ML Engineer From Pakistan</h3>
 <!-- <img align="right" alt="Data Science" width="400" src="https://imarticus.org/blog/wp-content/uploads/2021/03/hhfhwf.gif"> -->
 <img align="right" alt="Data Science" width="400" src="https://md-tabassum-hossain-emon.netlify.app/project/ngs/featured.gif">
 
