@@ -1,4 +1,4 @@
-<img src="https://static.vecteezy.com/system/resources/previews/039/885/786/non_2x/banner-data-science-concept-with-english-keywords-and-icon-of-analysis-structure-algorithm-process-programming-solving-and-knowledge-vector.jpg" alt="MasterHead" style="width:100%; max-height:300px; object-fit:cover;">
+<img src="https://static.vecteezy.com/system/resources/previews/039/885/786/non_2x/banner-data-science-concept-with-english-keywords-and-icon-of-analysis-structure-algorithm-process-programming-solving-and-knowledge-vector.jpg" alt="MasterHead" style="width:70%; max-height:100px; object-fit:cover;">
 
 <h1 align="center">Hi 👋, I'm Ahmad Saeed</h1>
 <h3 align="center">A Passionate Data Scientist and AI/ML Engineer From Pakistan</h3>
