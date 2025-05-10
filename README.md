@@ -1,4 +1,4 @@
-[![MasterHead][(https://1.bp.blogspot.com/-7A4WynwLsM...)](https://as1.ftcdn.net/jpg/03/85/33/70/1000_F_385337070_LSlZ7wWFZdPfiv96H7eKYDjLrHIbQsxb.jpg)]
+[![MasterHead](https://as1.ftcdn.net/jpg/03/85/33/70/1000_F_385337070_LSlZ7wWFZdPfiv96H7eKYDjLrHIbQsxb.jpg)]
 <h1 align="center">Hi 👋, I'm Ahmad Saeed</h1>
 <h3 align="center">A Passionate Data Scientist and AI/ML Engineer From Pakistan</h3>
 <!-- <img align="right" alt="Data Science" width="400" src="https://imarticus.org/blog/wp-content/uploads/2021/03/hhfhwf.gif"> -->
