@@ -2,7 +2,7 @@
   <img 
     src="https://static.vecteezy.com/system/resources/previews/039/885/786/non_2x/banner-data-science-concept-with-english-keywords-and-icon-of-analysis-structure-algorithm-process-programming-solving-and-knowledge-vector.jpg" 
     alt="MasterHead" 
-    style="width:90%; max-height:120px; object-fit:cover; border-radius:12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);"
+    style="width:50%; max-height:120px; object-fit:cover; border-radius:12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);"
   >
 </div>
 
