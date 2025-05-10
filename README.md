@@ -1,4 +1,4 @@
-[![MasterHead](https://static.vecteezy.com/system/resources/previews/039/885/786/non_2x/banner-data-science-concept-with-english-keywords-and-icon-of-analysis-structure-algorithm-process-programming-solving-and-knowledge-vector.jpg)]
+![MasterHead](https://static.vecteezy.com/system/resources/previews/039/885/786/non_2x/banner-data-science-concept-with-english-keywords-and-icon-of-analysis-structure-algorithm-process-programming-solving-and-knowledge-vector.jpg)
 <h1 align="center">Hi 👋, I'm Ahmad Saeed</h1>
 <h3 align="center">A Passionate Data Scientist and AI/ML Engineer From Pakistan</h3>
 <!-- <img align="right" alt="Data Science" width="400" src="https://imarticus.org/blog/wp-content/uploads/2021/03/hhfhwf.gif"> -->
