@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ranaahmad9151.github.io/Ahmad-Saeed/](https://ranaahmad9151.github.io/Ahmad-Saeed/)
 
-- 📝 I regularly write articles on [Data science & AI/ML topics](Data science & AI/ML topics)
+- 📝 I regularly write articles on Data science & AI/ML topics
 
 - 💬 Ask me about **Python, SQL, AWS, Azure, GitHub, Unity, C#, Firebase, (Data Science, Data Analysis, Data Modeling & Engineering, Gen-AI, Computer Vision, DevOps, Advanced Excel, Power BI, Tableau and Looker)**
 
